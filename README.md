@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![EMPD 10](https://github.com/navinofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151710204/4dcc809e-2821-4aa8-a797-02bd7eac3504)
 
 ### Output:
+![EMPD 10 0](https://github.com/navinofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151710204/cb8870a1-688c-433e-829e-2473aface9ae)
 
 
-### Name:
-### Register Number:
+### Name:NAVINKUMAR V
+### Register Number:212223230141
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
